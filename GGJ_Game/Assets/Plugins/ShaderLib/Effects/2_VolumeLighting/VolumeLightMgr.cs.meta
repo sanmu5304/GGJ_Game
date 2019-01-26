@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1b95d9dd725fef64ea1452e7fe5441d8
+timeCreated: 1522663139
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _blitAddMaterial: {fileID: 2100000, guid: f56e4ec41aafb1d419b8d62b4d4c05c4, type: 2}
+  - _bilateralBlurMaterial: {fileID: 2100000, guid: 1d0f088eb9f65bc408d05f431f4a562e,
+      type: 2}
+  - _DownSampleMaterial: {fileID: 2100000, guid: 404ce5baae6948e419136eec99e325d9,
+      type: 2}
+  - DefaultSpotCookie: {instanceID: 0}
+  - _ditheringTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

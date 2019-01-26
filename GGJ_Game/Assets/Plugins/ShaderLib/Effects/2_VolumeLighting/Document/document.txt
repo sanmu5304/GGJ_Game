@@ -1,0 +1,3 @@
+将VolumeLightMgr拖到摄像机上
+将VolumeLight拖到spotLight（仅支持spotlight，Directional light可以使用后处理的LightShaft）
+打开spotLight的阴影

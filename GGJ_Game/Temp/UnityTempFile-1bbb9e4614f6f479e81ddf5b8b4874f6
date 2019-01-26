@@ -6,6 +6,7 @@
 /nostdlib+
 /preferreduilang:en-US
 /langversion:latest
+/reference:"Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll"
 /reference:"Library/ScriptAssemblies/Assembly-CSharp.dll"
 /reference:"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll"
 /reference:"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll"

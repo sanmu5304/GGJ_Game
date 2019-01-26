@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14abb1e96eff7b741a49ae72a7b0dac5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - noiseTex: {fileID: 2800000, guid: e5a96e79a8b16f842b22ff2c84df15e1, type: 3}
+  - depthRecieve: {fileID: 1656861595199846, guid: 4d919cd8bd11ebc4ab1a9ee7303e8de5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
